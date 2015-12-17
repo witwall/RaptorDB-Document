@@ -9,7 +9,7 @@ using RaptorDB.Common;
 
 namespace RaptorDB
 {
-    internal class Hoot
+    public class Hoot
     {
         public Hoot(string IndexPath, string FileName, bool DocMode)
         {
